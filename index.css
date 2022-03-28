@@ -1,0 +1,35 @@
+/* External Styling */
+
+h1{
+    color: rgb(231, 43, 43);
+}
+h2{
+    color: orangered;
+}
+ol{
+    color: brown;
+    }
+ul{
+    color: brown;
+   letter-spacing: 5px;
+}
+b{
+    color:orangered;
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+} 
+.test{
+    text-decoration: line-through;
+    font-weight: bold;
+
+} 
+.test1{
+    color: brown;
+    background-color: yellow;
+    font-weight: bold;
+}
+.test2{
+    font-style: italic;
+    text-decoration: underline;   
+}
